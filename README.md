@@ -43,5 +43,5 @@ Useful JSON files for a VS Code workspace
 Run this on target after setting `LD_LIBRARY_PATH` if required
 
 ```bash
-gdbserver localhost:2000 ./build/test_app
+gdbserver localhost:2000 ./build/test_app <command line arguments>
 ```
