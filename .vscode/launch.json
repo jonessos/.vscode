@@ -8,12 +8,16 @@
 			"program": "${workspaceFolder}/build/test_app",
 			"cwd": "${workspaceFolder}",
 			"debuggerPath": "/usr/bin/gdb-multiarch",
+			"commandsBeforeExec": [
+				"set sysroot /opt/SDK/host/aarch64-buildroot-linux-gnu/sysroot",
+				"set solib-search-path /opt/SDK/host/aarch64-buildroot-linux-gnu/sysroot"
+			],
 			"remote": {
 				"enabled": true,
 				"address": "10.75.47.154:2000",
 				"mode": "remote",
 				"program": "${workspaceFolder}/build/test_app"
-			},
+			}
 		},
 		{
 			"name": "(gdb) host",
@@ -23,7 +27,6 @@
 			"cwd": "${workspaceFolder}",
 			"MIMode": "gdb",
 			"miDebuggerPath": "/usr/bin/gdb"
-		},
+		}
 	]
 }
-
