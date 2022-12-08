@@ -29,10 +29,12 @@ Useful JSON files for a VS Code workspace
 | IntelliCode API Usage Examples | Microsoft |
 | Live Server | Ritwick Dey |
 | Live Share | Microsoft |
+| markdownlint | David Anson |
 | Pylance | Microsoft |
 | Python | Microsoft |
 | Todo Tree | Gruntfuggly |
 | Trailing Spaces | Shardul Mahadik |
+| XML Tools | Josh Johnson |
 | Yangster | Yangster |
 
 ### Layout
