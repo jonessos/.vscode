@@ -31,6 +31,7 @@ Useful JSON files for a VS Code workspace
 | Live Share | Microsoft |
 | Pylance | Microsoft |
 | Python | Microsoft |
+| Todo Tree | Gruntfuggly |
 | Trailing Spaces | Shardul Mahadik |
 | Yangster | Yangster |
 
