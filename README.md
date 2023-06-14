@@ -32,6 +32,7 @@ Useful JSON files for a VS Code workspace
 | markdownlint | David Anson |
 | Pylance | Microsoft |
 | Python | Microsoft |
+| Sourcegraph | Sourcegraph |
 | Todo Tree | Gruntfuggly |
 | Trailing Spaces | Shardul Mahadik |
 | XML Tools | Josh Johnson |
