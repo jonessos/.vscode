@@ -22,6 +22,7 @@ Useful JSON files for a VS Code workspace
 | C/C++ | Microsoft |
 | C/C++ Extension Pack | Microsoft |
 | Doxygen Documentation Generator | Christoph Schlosser |
+| ESLint | Microsoft |
 | GDB Debugger - Beyond | coolchyni |
 | Gitlens | GitKraken |
 | Hex Editor | Microsoft |
